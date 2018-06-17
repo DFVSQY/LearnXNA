@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual C# Express 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-SpriteAndFont", "01-SpriteAndFont\01-SpriteAndFont.csproj", "{B983880F-A031-4459-AC5C-3FD016274F66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Triangles", "02-Triangles\02-Triangles.csproj", "{DA36CA14-8261-4346-A6EA-1605E6538A63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -15,6 +17,12 @@ Global
 		{B983880F-A031-4459-AC5C-3FD016274F66}.Release|x86.Build.0 = Release|x86
 		{1581C578-4360-473C-B89C-99E532AA110B}.Debug|x86.ActiveCfg = Debug|x86
 		{1581C578-4360-473C-B89C-99E532AA110B}.Release|x86.ActiveCfg = Release|x86
+		{DA36CA14-8261-4346-A6EA-1605E6538A63}.Debug|x86.ActiveCfg = Debug|x86
+		{DA36CA14-8261-4346-A6EA-1605E6538A63}.Debug|x86.Build.0 = Debug|x86
+		{DA36CA14-8261-4346-A6EA-1605E6538A63}.Release|x86.ActiveCfg = Release|x86
+		{DA36CA14-8261-4346-A6EA-1605E6538A63}.Release|x86.Build.0 = Release|x86
+		{3AD66D5E-79B8-4C97-B141-728D184B7860}.Debug|x86.ActiveCfg = Debug|x86
+		{3AD66D5E-79B8-4C97-B141-728D184B7860}.Release|x86.ActiveCfg = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

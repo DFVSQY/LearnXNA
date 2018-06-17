@@ -1,17 +1,17 @@
 ﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
   <PropertyGroup>
-    <ProjectGuid>{B983880F-A031-4459-AC5C-3FD016274F66}</ProjectGuid>
+    <ProjectGuid>{DA36CA14-8261-4346-A6EA-1605E6538A63}</ProjectGuid>
     <ProjectTypeGuids>{6D335F3A-9D43-41b4-9D22-F6F17C4BE596};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_01_SpriteAndFont</RootNamespace>
-    <AssemblyName>01-SpriteAndFont</AssemblyName>
+    <RootNamespace>_02_Triangles</RootNamespace>
+    <AssemblyName>02-Triangles</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <XnaFrameworkVersion>v3.1</XnaFrameworkVersion>
     <XnaPlatform>Windows</XnaPlatform>
-    <XnaCrossPlatformGroupID>29994263-6db6-4a9f-82ad-7cf954b4c4cf</XnaCrossPlatformGroupID>
+    <XnaCrossPlatformGroupID>32c30e64-92e6-4ce4-b9d5-0c3f60b81bbf</XnaCrossPlatformGroupID>
     <ApplicationIcon>Game.ico</ApplicationIcon>
     <Thumbnail>GameThumbnail.png</Thumbnail>
     <PublishUrl>publish\</PublishUrl>
@@ -88,13 +88,12 @@
     <Compile Include="Game1.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Demo\test.gif" />
     <Content Include="Game.ico" />
     <Content Include="GameThumbnail.png" />
   </ItemGroup>
   <ItemGroup>
     <NestedContentProject Include="Content\Content.contentproj">
-      <Project>1581c578-4360-473c-b89c-99e532aa110b</Project>
+      <Project>3ad66d5e-79b8-4c97-b141-728d184b7860</Project>
       <Visible>False</Visible>
     </NestedContentProject>
   </ItemGroup>

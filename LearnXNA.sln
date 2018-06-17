@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-SpriteAndFont", "01-Spri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Triangles", "02-Triangles\02-Triangles.csproj", "{DA36CA14-8261-4346-A6EA-1605E6538A63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-IndexBuffer", "03-IndexBuffer\03-IndexBuffer.csproj", "{28113DD3-98EB-44FC-BC5F-E32955FE208D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -23,6 +25,12 @@ Global
 		{DA36CA14-8261-4346-A6EA-1605E6538A63}.Release|x86.Build.0 = Release|x86
 		{3AD66D5E-79B8-4C97-B141-728D184B7860}.Debug|x86.ActiveCfg = Debug|x86
 		{3AD66D5E-79B8-4C97-B141-728D184B7860}.Release|x86.ActiveCfg = Release|x86
+		{28113DD3-98EB-44FC-BC5F-E32955FE208D}.Debug|x86.ActiveCfg = Debug|x86
+		{28113DD3-98EB-44FC-BC5F-E32955FE208D}.Debug|x86.Build.0 = Debug|x86
+		{28113DD3-98EB-44FC-BC5F-E32955FE208D}.Release|x86.ActiveCfg = Release|x86
+		{28113DD3-98EB-44FC-BC5F-E32955FE208D}.Release|x86.Build.0 = Release|x86
+		{0F92FF01-0E05-47E0-9D69-0D60C161CC3C}.Debug|x86.ActiveCfg = Debug|x86
+		{0F92FF01-0E05-47E0-9D69-0D60C161CC3C}.Release|x86.ActiveCfg = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
